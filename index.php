@@ -169,7 +169,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="container">
-        <h1>Traba da Alexandra</h1>
+        <h1>Trabalho de PHP</h1>
         
         <?php if ($showForm): ?>
 
